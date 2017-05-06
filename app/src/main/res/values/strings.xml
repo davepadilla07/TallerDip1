@@ -17,6 +17,7 @@
     <string name="resultado">El valor unitario es: </string>
     <string name="resultado1">El valor total a pagar es: </string>
     <string name="error">Por favor digite un numero</string>
+    <string name="error1">No puede colocar 0 como valor inicial y unico</string>
     <string-array name="generos">
         <item>@string/hombre</item>
         <item>@string/mujer</item>
