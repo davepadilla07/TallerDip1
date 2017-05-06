@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerDip1</string>
+    <string name="adidas">Adidas</string>
+    <string name="borrar">CLEAR</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="calzado">FOOTWEAR</string>
+    <string name="cantidad">Quantity</string>
+    <string name="clasico">Clasic</string>
+    <string name="error">Please enter one number</string>
+    <string name="genero">Gender:</string>
+    <string name="hombre">Male</string>
+    <string name="marca">Shoe Brand</string>
+    <string name="mujer">Female</string>
+    <string name="nike">Nike</string>
+    <string name="puma">Puma</string>
+    <string name="resultado1">The total value to pay is:</string>
+    <string name="tipo">Type of footwear</string>
+    <string name="zapatilla">Shoe</string>
+</resources>

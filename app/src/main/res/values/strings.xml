@@ -14,6 +14,9 @@
     <string name="genero">Sexo:</string>
     <string name="tipo">Tipo de calzado</string>
     <string name="marca">Marca del calzado</string>
+    <string name="resultado">El valor unitario es: </string>
+    <string name="resultado1">El valor total a pagar es: </string>
+    <string name="error">Por favor digite un numero</string>
     <string-array name="generos">
         <item>@string/hombre</item>
         <item>@string/mujer</item>
