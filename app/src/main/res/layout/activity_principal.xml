@@ -70,7 +70,8 @@
             android:ems="10"
             android:id="@+id/txtCantidad"
             android:hint="@string/cantidad"
-            android:textAlignment="center" />
+            android:textAlignment="center"
+            android:maxLength="4" />
 
         <LinearLayout
             android:orientation="horizontal"
