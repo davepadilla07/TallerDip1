@@ -24,20 +24,53 @@
             android:textAlignment="center"
             android:textSize="24sp" />
 
+        <TextView
+            android:text="@string/genero"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:textStyle="normal|bold"
+            android:textSize="18sp" />
+
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cmbGenero" />
+
+        <TextView
+            android:text="@string/tipo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:textStyle="normal|bold"
+            android:textSize="18sp" />
 
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cmbTipo" />
 
+        <TextView
+            android:text="@string/marca"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5"
+            android:textStyle="normal|bold"
+            android:textSize="18sp" />
+
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cmbMarca" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/txtCantidad"
+            android:hint="@string/cantidad"
+            android:textAlignment="center" />
 
         <LinearLayout
             android:orientation="horizontal"
