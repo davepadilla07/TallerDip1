@@ -118,6 +118,8 @@ public class Principal extends AppCompatActivity {
 
     public void borrar(View v){
         cajaCantidad.setText("");
+        cajaUnitario.setText("");
+        cajaResultado.setText("");
     }
 
     public boolean validar(){
