@@ -42,8 +42,6 @@ public class Principal extends AppCompatActivity {
         comboTipo.setAdapter(adapter1);
         comboMarca.setAdapter(adapter2);
 
-
-
     }
 
     public void calcular(View v){
@@ -114,7 +112,6 @@ public class Principal extends AppCompatActivity {
             cajaResultado.setText(this.getResources().getString(R.string.resultado1) + " " + res);
             cajaUnitario.setText(this.getResources().getString(R.string.resultado) + " " + res / cantidad);
         }
-
 
 
     }
