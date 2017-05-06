@@ -17,4 +17,6 @@
     <string name="resultado1">The total value to pay is:</string>
     <string name="tipo">Type of footwear</string>
     <string name="zapatilla">Shoe</string>
+    <string name="resultado">Unitary Value is:</string>
+    <string name="error1">It can´t put CERO as initial value or unique</string>
 </resources>
